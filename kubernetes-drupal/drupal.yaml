@@ -59,3 +59,4 @@ spec:
         - 
             name: vol-drupal
             persistentVolumeClaim: 
+                claimName: drupal-pvc
